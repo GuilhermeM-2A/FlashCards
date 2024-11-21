@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Ciência',
+    'Qual a montanha mais alta do mundo?',
+    'A montanha mais alta é o Monte Everest.'
+)
+
+criaCartao(
+    'Ciência',
+    'Quem inventou a lâmpada?',
+    'A lâmpada foi inventada por Thomas Edison (1847-1931) em 1879.'
+)
