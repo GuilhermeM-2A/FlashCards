@@ -23,13 +23,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Ciência',
+    'Geografia',
     'Qual a montanha mais alta do mundo?',
     'A montanha mais alta é o Monte Everest.'
 )
 
 criaCartao(
-    'Ciência',
+    'Ciência-História',
     'Quem inventou a lâmpada?',
     'A lâmpada foi inventada por Thomas Edison (1847-1931) em 1879.'
 )
